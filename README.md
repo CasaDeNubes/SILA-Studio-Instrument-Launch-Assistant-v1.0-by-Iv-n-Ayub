@@ -1,8 +1,8 @@
-SILA (Studio Instrument Launch Assistant) is a tool that allows musicians and producers to easily manage and launch their virtual instruments. With an intuitive interface, SILA enables users to add, remove, and search for instruments, as well as export the instrument list to a CSV file. Additionally, it provides a real-time view of the status of running instruments, facilitating process management.
+SILA (Studio Instrument Launch Assistant) is a tool designed specifically for managing and launching autonomous virtual instruments, allowing musicians and producers to easily handle their virtual setups. With an intuitive interface, SILA enables users to add, remove, and search for instruments, as well as export the instrument list to a CSV file. Additionally, it provides a real-time view of the status of running instruments, facilitating effective process management.
 
 Features
 
-Instrument Management: Easily add and remove virtual instruments.
+Instrument Management: Easily add and remove autonomous virtual instruments.
 Intuitive Interface: User-centered design for easy navigation.
 Running Status: Indicates whether an instrument is running or closed.
 Instrument Search: Quickly filter the list of instruments.
